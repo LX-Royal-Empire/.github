@@ -50,4 +50,4 @@ Thank you for visiting LX Royal Empire! We are excited to collaborate with you a
 
 ---
 
-![LX Royal Empire Logo](https://media.discordapp.net/attachments/1231161981860319293/1251562056163922042/LX_Royal_Empire.jpg?ex=66e5ae7f&is=66e45cff&hm=613992a0dc067a3914d1a1c1deba9a2b5708617663bd6adc2da15a700cca4210&=&format=webp&width=890&height=200) <!-- Replace with your logo image URL -->
+![LX Royal Empire Logo](https://media.discordapp.net/attachments/1231161981860319293/1284439885507334234/l2lR021.png?ex=66e6a35c&is=66e551dc&hm=a212b1af965f4e554a8cd49517444f340c27b412cfbb897519a49c0fe9932b87&=&format=webp&width=890&height=200) <!-- Replace with your logo image URL -->
