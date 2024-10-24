@@ -1,6 +1,6 @@
 # LX Royal Empire
 
-![LX Royal Empire Banner](https://cdn.discordapp.com/attachments/1231161981860319293/1284439885507334234/l2lR021.png?ex=66ede39c&is=66ec921c&hm=04c8d6bed7c25e681a3f63db6a8ecf91ac7fa71fbfa80dc7455fc2a53deb2aff&format=webp&width=890&height=200) <!-- Replace with your banner image URL -->
+![LX Royal Empire Banner](https://media.discordapp.net/attachments/1231161981860319293/1284439885507334234/l2lR021.png?ex=671b5f5c&is=671a0ddc&hm=cd45a559dd5a86592bf477b9c3e3494ea3828c0f4d67d5f7f92077e9c700eedf&=&format=webp&quality=lossless&width=890&height=200)
 
 Welcome to LX Royal Empire, where innovation meets integrity. We deliver cutting-edge solutions that empower businesses and communities, shaping a brighter future through ethical and innovative practices.
 
@@ -49,5 +49,3 @@ All of our projects are licensed under the [MIT License](LICENSE).
 Thank you for visiting LX Royal Empire! We are excited to collaborate with you and drive innovation together. 🌟
 
 ---
-
-![LX Royal Empire Logo](https://cdn.discordapp.com/attachments/1231161981860319293/1284439885507334234/l2lR021.png?ex=66ede39c&is=66ec921c&hm=04c8d6bed7c25e681a3f63db6a8ecf91ac7fa71fbfa80dc7455fc2a53deb2aff&format=webp&width=890&height=150) <!-- Replace with your logo image URL -->
