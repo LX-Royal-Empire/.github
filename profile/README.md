@@ -1,6 +1,6 @@
 # LX Royal Empire
 
-![LX Royal Empire Banner](https://media.discordapp.net/attachments/1231161981860319293/1284439885507334234/l2lR021.png?ex=671b5f5c&is=671a0ddc&hm=cd45a559dd5a86592bf477b9c3e3494ea3828c0f4d67d5f7f92077e9c700eedf&=&format=webp&quality=lossless&width=890&height=200)
+![LX Royal Empire Banner](https://i.ibb.co/59dQbRp/Modern-Sci-Fi-Streaming-Twitch-Banner-1.png)
 
 Welcome to LX Royal Empire, where innovation meets integrity. We deliver cutting-edge solutions that empower businesses and communities, shaping a brighter future through ethical and innovative practices.
 
